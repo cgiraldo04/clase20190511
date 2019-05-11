@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\DeepLearning\\04 Redes Neuronales Convolucionales\\RedesConvolucionales_MNIST\\model_softmax.ckpt"
+all_model_checkpoint_paths: "D:\\DeepLearning\\04 Redes Neuronales Convolucionales\\RedesConvolucionales_MNIST\\model_softmax.ckpt"
